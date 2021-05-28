@@ -1,2 +1,3 @@
 def hello():
-    pass
+    hello = "Hello, World!" 
+    return hello
